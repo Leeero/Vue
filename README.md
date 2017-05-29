@@ -1,3 +1,4 @@
 # vue.js
 基于vue.js开发的后台管理系统
-尚未完成，但是主体已经搭建完毕。
+#npm install
+#npm run dev
